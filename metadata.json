@@ -1,0 +1,6 @@
+{
+  "name": "M.K AI",
+  "description": "M.K AI is a personal AI assistant developed by Manish Meena to make smartphone interaction smarter, faster and easier.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

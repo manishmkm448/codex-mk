@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M.K AI</string>
+    <string name="developer_name">Manish Meena</string>
+    <string name="assistant_greeting">Hello! I am M.K AI, your personal AI assistant. I was developed by Manish Meena. How can I help you today?</string>
+    <string name="accessibility_service_label">M.K AI Navigation Helper</string>
+    <string name="accessibility_service_description">Optional helper used strictly when you ask M.K AI to perform Back, Home, Recents, or Notification shade actions. Never reads messages or passwords.</string>
+</resources>

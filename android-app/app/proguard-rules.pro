@@ -1,0 +1,4 @@
+-keepattributes Signature
+-keepattributes *Annotation*
+-keep class com.manishmeena.mkai.data.model.** { *; }
+-dontwarn retrofit2.**

@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.MkAi" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/mk_obsidian</item>
+        <item name="android:navigationBarColor">@color/mk_obsidian</item>
+    </style>
+</resources>
